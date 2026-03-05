@@ -1,6 +1,6 @@
 to start working clone the code base 
+use your own groq key in .env file
 and at the commandshell or terminal use
-cd C:\Users\edoff\.gemini\antigravity\scratch\statbot
-$env:GROQ_API_KEY=""
-
-python -X utf8 statbot.py
+python statbot.py
+to start 
+\
